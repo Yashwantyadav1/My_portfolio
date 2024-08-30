@@ -11,10 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Yashwant Yadav </span>
             from <span className="purple"> Bihar, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently pursuing  B.Tech(CSE) from Shivalik College Of Engineering which belong To Veer Madho Singh Bhandari Uttarakhand Technical University
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed My Intermidate and Primary Education from Bihar.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Reading Book
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -34,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Yashwant Yadav</footer>
         </blockquote>
       </Card.Body>
     </Card>
