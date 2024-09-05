@@ -7,7 +7,7 @@ import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import music from "../../Assets/Projects/music .jpeg";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import shoping from "../../Assets/Projects/shoping.png";
 
 function Projects() {
   return (
@@ -35,12 +35,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={shoping}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Shoping "
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/Yashwantyadav1/webdevlopment/tree/main/Day2"
+              demoLink="http://127.0.0.1:5500/Day2/project_2.html"
             />
           </Col>
 
