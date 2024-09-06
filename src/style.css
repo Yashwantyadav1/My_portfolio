@@ -155,9 +155,14 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  width: 50px; /* Set smaller width */
+  height: 50px; /* Set smaller height */
+  border-radius: 50%; /* Keeps the image round */
+  object-fit: cover; /* Ensures proper scaling within the circle */
 }
+
+
+
 
 .navbar-nav .nav-link {
   color: white !important;
