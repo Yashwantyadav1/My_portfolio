@@ -35,8 +35,8 @@ function Projects() {
               isBlog={false}
               title="Shoping "
               description=" e-commerce website using HTML, CSS, and JavaScript. Deliver a seamless shopping experience, intuitive navigation, and interactive product displays. Implement secure checkout, and cart functionality."
-              ghLink="https://github.com/Yashwantyadav1/webdevlopment/tree/main/Day2"
-              demoLink=""
+              ghLink="https://github.com/Yashwantyadav1/project"
+              demoLink="https://yashwantyadav1.github.io/project/"
             />
           </Col>
 
